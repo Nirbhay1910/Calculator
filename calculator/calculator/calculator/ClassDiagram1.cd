@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CalculatorLibrary.DivideOperation">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DivideOperation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CalculatorLibrary.MultiplyOperation">
+    <Position X="3.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MultiplyOperation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CalculatorLibrary.SubtractOperation">
+    <Position X="2" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SubtractOperation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CalculatorLibrary.AddOperation">
+    <Position X="5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AddOperation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CalculatorLibrary.ExpressionEvaluator" Collapsed="true">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAEAAAAAEAAIAoAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>ExpressionEvaluator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CalculatorLibrary.UnaryOperation" Collapsed="true">
+    <Position X="10.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UnaryOperation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CalculatorLibrary.BinaryOperation" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BinaryOperation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CalculatorLibrary.FactorialOperation" Collapsed="true">
+    <Position X="10.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FactorialOperation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CalculatorLibrary.Log10Operation" Collapsed="true">
+    <Position X="7.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Log10Operation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CalculatorLibrary.ModulusOperation">
+    <Position X="6.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ModulusOperation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CalculatorLibrary.Operation" Collapsed="true">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Operation.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CalculatorLibrary.SquareOperation" Collapsed="true">
+    <Position X="9.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SquareOperation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CalculatorLibrary.SquareRootOperation" Collapsed="true">
+    <Position X="12.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SquareRootOperation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CalculatorLibrary.PercentOperation">
+    <Position X="8" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PercentOperation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="CalculatorLibrary.IOperation">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IOperation.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

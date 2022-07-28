@@ -1,0 +1,52 @@
+{
+  "ADD_OPERATOR": {
+    "symbol": "+",
+    "precedence": 1800,
+    "custom": false
+  },
+  "SUBTRACT_OPERATOR": {
+    "symbol": "-",
+    "precedence": 1700,
+    "custom": false
+  },
+  "MULTIPLY_OPERATOR": {
+    "symbol": "*",
+    "precedence": 1900,
+    "custom": false
+  },
+  "DIVIDE_OPERATOR": {
+    "symbol": "/",
+    "precedence": 2000,
+    "custom": false
+  },
+  "FACTORIAL_OPERATOR": {
+    "symbol": "!",
+    "precedence": 2100,
+    "custom": false
+  },
+  "SQUARE_OPERATOR": {
+    "symbol": "sqr",
+    "precedence": 2100,
+    "custom": false
+  },
+  "SQUAREROOT_OPERATOR": {
+    "symbol": "sqrt",
+    "precedence": 2100,
+    "custom": false
+  },
+  "MODULUS_OPERATOR": {
+    "symbol": "mod",
+    "precedence": 1900,
+    "custom": false
+  },
+  "PERCENT_OPERATOR": {
+    "symbol": "%",
+    "precedence": 100,
+    "custom": false
+  },
+  "LOG10_OPERATOR": {
+    "symbol": "log",
+    "precedence": 2100,
+    "custom": false
+  }
+}

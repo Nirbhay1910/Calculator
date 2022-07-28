@@ -1,0 +1,13 @@
+C:\Users\GPCTAdmin\source\repos\nirbhayjain\calculator\calculator\calculator\calculator\obj\Debug\CalculatorLibrary.csproj.AssemblyReference.cache
+C:\Users\GPCTAdmin\source\repos\nirbhayjain\calculator\calculator\calculator\calculator\obj\Debug\CalculatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\GPCTAdmin\source\repos\nirbhayjain\calculator\calculator\calculator\calculator\obj\Debug\CalculatorLibrary.csproj.GenerateResource.cache
+C:\Users\GPCTAdmin\source\repos\nirbhayjain\calculator\calculator\calculator\calculator\obj\Debug\CalculatorLibrary.ErrorMessages.resources
+C:\Users\GPCTAdmin\source\repos\nirbhayjain\calculator\calculator\calculator\calculator\bin\Debug\CalculatorLibrary.pdb
+C:\Users\GPCTAdmin\source\repos\nirbhayjain\calculator\calculator\calculator\calculator\obj\Debug\CalculatorLibrary.pdb
+C:\Users\GPCTAdmin\source\repos\nirbhayjain\calculator\calculator\calculator\calculator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GPCTAdmin\source\repos\nirbhayjain\calculator\calculator\calculator\calculator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\GPCTAdmin\source\repos\nirbhayjain\calculator\calculator\calculator\calculator\obj\Debug\CalculatorLibrary.csproj.CopyComplete
+C:\Users\GPCTAdmin\source\repos\nirbhayjain\calculator\calculator\calculator\calculator\bin\Debug\OperatorsResources.json
+C:\Users\GPCTAdmin\source\repos\nirbhayjain\calculator\calculator\calculator\calculator\bin\Debug\CalculatorLibrary.dll.config
+C:\Users\GPCTAdmin\source\repos\nirbhayjain\calculator\calculator\calculator\calculator\bin\Debug\CalculatorLibrary.dll
+C:\Users\GPCTAdmin\source\repos\nirbhayjain\calculator\calculator\calculator\calculator\obj\Debug\CalculatorLibrary.dll
